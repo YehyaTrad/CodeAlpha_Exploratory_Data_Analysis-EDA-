@@ -132,4 +132,8 @@ These issues were addressed through proper column selection, cleaning, and robus
 ### 1️⃣ Install required libraries
 ```bash
 pip install pandas matplotlib seaborn
-
+```
+### 2️⃣ Run the EDA script
+```
+python EDA.py
+```
