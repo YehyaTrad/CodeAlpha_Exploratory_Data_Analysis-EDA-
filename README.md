@@ -141,6 +141,10 @@ python EDA.py
 # 🎯 Key Takeaways
 
 -Explored dataset structure and data quality
+
 -Identified trends, patterns, and anomalies
+
 -Tested assumptions using statistical analysis
+
 -Created clear, intuitive visualizations
+
