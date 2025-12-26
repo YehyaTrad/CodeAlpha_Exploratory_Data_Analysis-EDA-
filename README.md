@@ -148,3 +148,16 @@ python EDA.py
 
 -Created clear, intuitive visualizations
 
+
+# 👤 Author
+
+Yehya Alaa Trad
+Data Analytics Intern – CodeAlpha
+
+🔗 GitHub: https://github.com/YehyaTrad
+
+🔗 LinkedIn: https://www.linkedin.com/in/yehya-trad-690196327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+
+### 📜 License
+
+This project is created for educational and internship purposes only.
